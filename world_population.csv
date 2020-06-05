@@ -1,0 +1,202 @@
+﻿country,id,male/female
+Burundi,108,98.5
+Comoros,174,101.8
+Djibouti,262,110.7
+Eritrea,232,100.5
+Ethiopia,231,100.1
+Kenya,404,98.8
+Madagascar,450,99.6
+Malawi,454,97.3
+Mauritius,480,97.4
+Mayotte,175,96.8
+Mozambique,508,94.5
+Réunion,638,93.8
+Rwanda,646,96.7
+Seychelles,690,105.3
+Somalia,706,99.4
+South Sudan,728,100.2
+Uganda,800,97.2
+United Republic of Tanzania,834,99.9
+Zambia,894,98.1
+Zimbabwe,716,91.3
+Angola,24,97.9
+Cameroon,120,100.1
+Central African Republic,140,98.3
+Chad,148,99.7
+Congo,178,99.8
+Democratic Republic of the Congo,180,99.7
+Equatorial Guinea,226,125.3
+Gabon,266,103.7
+Sao Tome and Principe,678,100.2
+Botswana,72,93.9
+Eswatini,748,96.7
+Lesotho,426,97.4
+Namibia,516,94.1
+South Africa,710,97.1
+Benin,204,99.8
+Burkina Faso,854,99.9
+Cabo Verde,132,100.8
+Côte d'Ivoire,384,101.7
+Gambia,270,98.4
+Ghana,288,102.8
+Guinea,324,93.7
+Guinea-Bissau,624,95.8
+Liberia,430,101.1
+Mali,466,100.4
+Mauritania,478,100.9
+Niger,562,101.1
+Nigeria,566,102.8
+Senegal,686,95.3
+Sierra Leone,694,99.6
+Togo,768,99.0
+Algeria,12,102.1
+Egypt,818,102.1
+Libya,434,101.9
+Morocco,504,98.5
+Sudan,729,99.8
+Tunisia,788,98.4
+Western Sahara,732,109.5
+Armenia,51,88.8
+Azerbaijan,31,99.8
+Bahrain,48,183.1
+Cyprus,196,99.9
+Georgia,268,91.1
+Iraq,368,102.5
+Israel,376,99.1
+Jordan,400,102.6
+Kuwait,414,157.9
+Lebanon,422,101.4
+Oman,512,194.1
+Qatar,634,302.4
+Saudi Arabia,682,137.1
+State of Palestine,275,102.9
+Syrian Arab Republic,760,100.2
+Turkey,792,97.5
+United Arab Emirates,784,223.8
+Yemen,887,101.5
+Kazakhstan,398,94.3
+Kyrgyzstan,417,97.9
+Tajikistan,762,101.6
+Turkmenistan,795,97.0
+Uzbekistan,860,99.6
+Afghanistan,4,105.4
+Bangladesh,50,102.2
+Bhutan,64,113.4
+India,356,108.2
+Iran (Islamic Republic of),364,102.0
+Maldives,462,173.5
+Nepal,524,84.5
+Pakistan,586,106.0
+Sri Lanka,144,92.1
+China,156,105.3
+"China, Hong Kong SAR",344,84.8
+"China, Macao SAR",446,92.5
+"China, Taiwan Province of China",158,98.8
+Dem. People's Republic of Korea,408,95.7
+Japan,392,95.4
+Mongolia,496,97.1
+Republic of Korea,410,100.2
+Brunei Darussalam,96,107.8
+Cambodia,116,95.4
+Indonesia,360,101.4
+Lao People's Democratic Republic,418,100.8
+Malaysia,458,105.7
+Myanmar,104,93.0
+Philippines,608,100.9
+Singapore,702,109.8
+Thailand,764,94.8
+Timor-Leste,626,102.2
+Viet Nam,704,99.7
+Antigua and Barbuda,28,93.3
+Aruba,533,90.2
+Bahamas,44,94.5
+Barbados,52,93.8
+Cuba,192,98.6
+Curaçao,531,85.1
+Dominican Republic,214,99.8
+Grenada,308,101.5
+Guadeloupe,312,85.6
+Haiti,332,97.4
+Jamaica,388,98.5
+Martinique,474,85.2
+Puerto Rico,630,90.0
+Saint Lucia,662,97.0
+Saint Vincent and the Grenadines,670,102.7
+Trinidad and Tobago,780,97.5
+United States Virgin Islands,850,90.5
+Belize,84,99.0
+Costa Rica,188,99.8
+El Salvador,222,88.0
+Guatemala,320,97.1
+Honduras,340,99.9
+Mexico,484,95.8
+Nicaragua,558,97.2
+Panama,591,100.2
+Argentina,32,95.3
+Bolivia (Plurinational State of),68,100.7
+Brazil,76,96.6
+Chile,152,97.3
+Colombia,170,96.5
+Ecuador,218,100.1
+French Guiana,254,97.9
+Guyana,328,101.2
+Paraguay,600,103.3
+Peru,604,98.7
+Suriname,740,101.0
+Uruguay,858,93.5
+Venezuela (Bolivarian Republic of),862,96.8
+Australia,36,99.2
+New Zealand,554,96.7
+Fiji,242,102.6
+New Caledonia,540,101.1
+Papua New Guinea,598,104.3
+Solomon Islands,90,103.5
+Vanuatu,548,102.8
+Guam,316,101.8
+Kiribati,296,96.8
+Micronesia (Fed. States of),583,103.4
+French Polynesia,258,102.6
+Samoa,882,107.3
+Tonga,776,100.2
+Belarus,112,87.1
+Bulgaria,100,94.4
+Czechia,203,97.0
+Hungary,348,90.8
+Poland,616,94.0
+Republic of Moldova,498,91.9
+Romania,642,94.6
+Russian Federation,643,86.4
+Slovakia,703,94.9
+Ukraine,804,86.3
+Channel Islands,830,98.0
+Denmark,208,98.9
+Estonia,233,90.0
+Finland,246,97.3
+Iceland,352,100.9
+Ireland,372,98.6
+Latvia,428,85.5
+Lithuania,440,86.2
+Norway,578,102.2
+Sweden,752,100.4
+United Kingdom,826,97.7
+Albania,8,103.7
+Bosnia and Herzegovina,70,96.0
+Croatia,191,93.1
+Greece,300,96.4
+Italy,380,94.9
+Malta,470,100.6
+Montenegro,499,97.8
+North Macedonia,807,100.1
+Portugal,620,89.8
+Serbia,688,96.0
+Slovenia,705,99.2
+Spain,724,96.6
+Austria,40,97.2
+Belgium,56,98.3
+France,250,93.8
+Germany,276,97.8
+Luxembourg,442,102.3
+Netherlands,528,99.3
+Switzerland,756,98.5
+Canada,124,98.5
+United States of America,840,97.9
